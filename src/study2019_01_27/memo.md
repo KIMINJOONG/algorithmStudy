@@ -12,5 +12,6 @@
   <ul>
     <li>적어도 하나의 base case, 즉 순환되지 않고 종료되는 case가 있어야함</li>
     <li>모든 case는 결국 base case로 수렴해야 함</li>
+    <li>암시적(implicit) 매개변수를 명시적(explicit)매개변수로 바꾸어라.</
   </ul>
 </div>
